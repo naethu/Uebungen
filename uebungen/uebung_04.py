@@ -95,3 +95,8 @@ if __name__ == "__main__":
     gui.show()
     gui.raise_()
     sys.exit(app.exec_())
+
+    https://github.com/naethu/Uebungen/blob/78379a4b3ced56e13fbf87d574840c9e5da002c1/uebung_04/aufgabe_01.py
+uebun
+
+uebung_04/aufgabe_01.py
