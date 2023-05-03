@@ -93,4 +93,8 @@ if __name__ == "__main__":
     gui = GUI()
     gui.show()
     gui.raise_()
+<<<<<<< Updated upstream
     sys.exit(app.exec_())
+=======
+    sys.exit(app.exec_())
+>>>>>>> Stashed changes
